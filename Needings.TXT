@@ -1,0 +1,13 @@
+installing needed libraires in python and import it
+import requests
+from bs4 import BeautifulSoup as bs
+from itertools import zip_longest
+import csv
+import io
+import pandas as pd
+-----------------
+if wants to try making json file install this lib and import it
+import json
+---------------------
+Loging In Cookies And Heares needed
+https://curl.trillworks.com/
